@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_DDC_Box_0001__",
+  "description": "__MSG_DDC_Box_0002__",
+  "version": "1.0.3",
+  "default_locale": "en",
+  "icons": {
+    "16": "assets/images/icon16.png",
+    "48": "assets/images/icon48.png",
+    "128": "assets/images/icon128.png"
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background-loader.js"
+  },
+  "action": {
+    "default_title": "__MSG_DDC_Box_0001__",
+    "default_icon": "assets/images/icon48.png",
+    "default_popup": "default_popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["js/chunk-vendors.js", "js/content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["js/inject.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "DDC_Box_0000": {
+    "message": "----------------公共----------------"
+  },
+  "DDC_Box_0001": {
+    "message": "DDC-Vault"
+  },
+  "DDC_Box_0002": {
+    "message": "DDC-Vault chrome extension"
+  },
+  "DDC_Box_0003": {
+    "message": "< Back"
+  },
+  "DDC_Box_0004": {
+    "message": "Cancel"
+  },
+  "DDC_Box_0004_1": {
+    "message": "Confirm"
+  },
+  "DDC_Box_0005": {
+    "message": "Previous"
+  },
+  "DDC_Box_0006": {
+    "message": "Next"
+  },
+  "DDC_Box_0007": {
+    "message": "Action"
+  },
+  "DDC_Box_0008": {
+    "message": "View"
+  },
+  "DDC_Box_0009": {
+    "message": "Create"
+  },
+  "DDC_Box_0009_1": {
+    "message": "Import"
+  },
+  "DDC_Box_0010": {
+    "message": "Please enter****"
+  },
+  "DDC_Box_0011": {
+    "message": "Success"
+  },
+  "DDC_Box_0012": {
+    "message": "Failure"
+  },
+  "DDC_Box_0013": {
+    "message": "Showing A1 to A1 of A2 entries"
+  },
+  "DDC_Box_1000": {
+    "message": "----------------引导页----------------"
+  },
+  "DDC_Box_1001": {
+    "message": "First time using DDC Vault?"
+  },
+  "DDC_Box_1002": {
+    "message": "No, I already have a mnemonic."
+  },
+  "DDC_Box_1003": {
+    "message": "Import your existing private key using the mnemonic"
+  },
+  "DDC_Box_1004": {
+    "message": "Import a private key"
+  },
+  "DDC_Box_1005": {
+    "message": "Yes, let's get set up!"
+  },
+  "DDC_Box_1006": {
+    "message": "A new private key and mnemonics will be created for you"
+  },
+  "DDC_Box_1007": {
+    "message": "Create a private key"
+  },
+  "DDC_Box_1008": {
+    "message": "Create a password"
+  },
+  "DDC_Box_1009": {
+    "message": "New Password (at least 8 characters)"
+  },
+  "DDC_Box_1009_1": {
+    "message": "Please enter a new password"
+  },
+  "DDC_Box_1009_2": {
+    "message": "Password must be at least 8 characters"
+  },
+  "DDC_Box_1010": {
+    "message": "Confirm Password"
+  },
+  "DDC_Box_1010_1": {
+    "message": "Please enter your password again"
+  },
+  "DDC_Box_1011": {
+    "message": "I have read and agree to the "
+  },
+  "DDC_Box_1012": {
+    "message": "Terms of Use"
+  },
+  "DDC_Box_1012_1": {
+    "message": "Please read and agree to the terms of use"
+  },
+  "DDC_Box_1013": {
+    "message": "Passwords do not match, please enter again"
+  },
+  "DDC_Box_1014": {
+    "message": "DDC Vault will never collect your keys, addresses, transaction records, balances, hashes or any personal information"
+  },
+  "DDC_Box_1015": {
+    "message": "DDC Vault will never collect your full IP address"
+  },
+  "DDC_Box_1016": {
+    "message": "DDC Vault will never sell your data for profit"
+  },
+  "DDC_Box_1017": {
+    "message": "Mnemonics"
+  },
+  "DDC_Box_1018": {
+    "message": "Your mnemonics makes it easy to backup and restore your accounts."
+  },
+  "DDC_Box_1019": {
+    "message": "Warning: Never disclose your mnemonic to others. Anyone with your mnemonic can completely control your DDCs."
+  },
+  "DDC_Box_1020": {
+    "message": "Click here to reveal secret words"
+  },
+  "DDC_Box_1021": {
+    "message": "Remind me later"
+  },
+  "DDC_Box_1022": {
+    "message": "Please enter your mnemonic"
+  },
+  "DDC_Box_1023": {
+    "message": "Warm tips"
+  },
+  "DDC_Box_1024": {
+    "message": "Store this mnemonic in a password manager like 1Password."
+  },
+  "DDC_Box_1025": {
+    "message": "Write this mnemonic on a piece of paper and keep it safe. If you want even more security, write it down on multiple pieces of paper and store each in 2 - 3 different locations."
+  },
+  "DDC_Box_1026": {
+    "message": "Memorize this mnemonic"
+  },
+  "DDC_Box_1027": {
+    "message": "Download this mnemonic and keep it stored safely on an external encrypted hard drive or storage medium."
+  },
+  "DDC_Box_1028": {
+    "message": "Welcome back!"
+  },
+  "DDC_Box_1029": {
+    "message": "DDC Vault is ready for you"
+  },
+  "DDC_Box_1030": {
+    "message": "Enter password"
+  },
+  "DDC_Box_1030_1": {
+    "message": "Please enter the password"
+  },
+  "DDC_Box_1031": {
+    "message": "Unlock"
+  },
+  "DDC_Box_1032": {
+    "message": "or"
+  },
+  "DDC_Box_1033": {
+    "message": "Import by mnemonic"
+  },
+  "DDC_Box_1034": {
+    "message": "Recover your account by mnemonic"
+  },
+  "DDC_Box_1035": {
+    "message": "Reveal Mnemonics"
+  },
+  "DDC_Box_1036": {
+    "message": "Login"
+  },
+  "DDC_Box_1037": {
+    "message": "Wrong password, please try again"
+  },
+  "DDC_Box_1038": {
+    "message": "Account_"
+  },
+  "DDC_Box_1039": {
+    "message": "Mnemonic is made of 12, 15, 18, 21 or 24 words"
+  },
+  "DDC_Box_1040": {
+    "message": "Invalid mnemonic"
+  },
+  "DDC_Box_1041": {
+    "message": "Refresh Mnemonic"
+  },
+  "DDC_Box_2000": {
+    "message": "----------------首页----------------"
+  },
+  "DDC_Box_2001": {
+    "message": "Open Permissioned Blockchain"
+  },
+  "DDC_Box_2002": {
+    "message": "Create Account"
+  },
+  "DDC_Box_2003": {
+    "message": "Import Account"
+  },
+  "DDC_Box_2004": {
+    "message": "Reveal Mnemonic"
+  },
+  "DDC_Box_2005": {
+    "message": "Export Private Key"
+  },
+  "DDC_Box_2006": {
+    "message": "Remaining Gas"
+  },
+  "DDC_Box_2007": {
+    "message": "View Details"
+  },
+  "DDC_Box_2008": {
+    "message": "Reveal Private Key"
+  },
+  "DDC_Box_2009": {
+    "message": "Warning: Never disclose this key. Anyone with your private key can steal any assets held in your account."
+  },
+  "DDC_Box_2010": {
+    "message": "Done"
+  },
+  "DDC_Box_2011": {
+    "message": "My Account"
+  },
+  "DDC_Box_2012": {
+    "message": "Lock"
+  },
+  "DDC_Box_2013": {
+    "message": "OPB Frameworks"
+  },
+  "DDC_Box_2014": {
+    "message": "The imported account will not be associated with the mnemonic originally created."
+  },
+  "DDC_Box_2015": {
+    "message": "Account Name"
+  },
+  "DDC_Box_2016": {
+    "message": "Please paste your private key here"
+  },
+  "DDC_Box_2017": {
+    "message": "Import"
+  },
+  "DDC_Box_2018": {
+    "message": "Mnemonic"
+  },
+  "DDC_Box_2019": {
+    "message": "If you ever change browsers or move computers, you will need this mnemonic to access your accounts. Save them somewhere safe and secret."
+  },
+  "DDC_Box_2020": {
+    "message": "DO NOT share this mnemonic with anyone!"
+  },
+  "DDC_Box_2021": {
+    "message": "Enter password to continue"
+  },
+  "DDC_Box_2022": {
+    "message": "Your mnemonic"
+  },
+  "DDC_Box_2023": {
+    "message": "Copy to clickboard"
+  },
+  "DDC_Box_2024": {
+    "message": "Save as CSV file"
+  },
+  "DDC_Box_2025": {
+    "message": "Close"
+  },
+  "DDC_Box_2026": {
+    "message": "AA is trying to sign by BB's private key, continue?"
+  },
+  "DDC_Box_2027": {
+    "message": "Sign"
+  },
+  "DDC_Box_2028": {
+    "message": "This mnemonic can be used to steal all of your accounts."
+  },
+  "DDC_Box_2029": {
+    "message": "Copied successfully"
+  },
+  "DDC_Box_2030": {
+    "message": "Passwords do not match"
+  },
+  "DDC_Box_2031": {
+    "message": "Wrong imported private key"
+  },
+  "DDC_Box_2032": {
+    "message": "Please select the chain account you want to create"
+  },
+  "DDC_Box_2033": {
+    "message": "There is no AA's private key in the DDC Vault and cannot sign the data, please import or create the private key first!"
+  },
+  "DDC_Box_2034": {
+    "message": "Duplicated account name"
+  },
+  "DDC_Box_2035": {
+    "message": "Import duplication"
+  },
+  "DDC_Box_2036": {
+    "message": "This is your private key (click to copy)"
+  },
+  "DDC_Box_2037": {
+    "message": "The account name is a made of letters and numbers with underscores"
+  },
+  "DDC_Box_2038": {
+    "message": "Select Algorithm"
+  },
+  "DDC_Box_2039": {
+    "message": "Please select the algorithm"
+  },
+  "DDC_Box_2040": {
+    "message": "Account Name"
+  },
+  "DDC_Box_2041": {
+    "message": "Account Address"
+  },
+  "DDC_Box_2042": {
+    "message": "Encryption algorithm"
+  },
+  "DDC_Box_2043": {
+    "message": "Action"
+  },
+  "DDC_Box_2044": {
+    "message": "Remarks"
+  },
+  "DDC_Box_2045": {
+    "message": "My Private Key List"
+  },
+  "DDC_Box_2046": {
+    "message": "Unsigned Data"
+  },
+  "DDC_Box_2047": {
+    "message": "Unsigned Data"
+  },
+  "DDC_Box_2048": {
+    "message": "Password"
+  },
+  "DDC_Box_2049": {
+    "message": "Please input the data to be signed"
+  },
+  "DDC_Box_2050": {
+    "message": "Signature"
+  },
+  "DDC_Box_2051": {
+    "message": "Private Key"
+  },
+  "DDC_Box_2052": {
+    "message": "Copy"
+  },
+  "DDC_Box_2053": {
+    "message": "Edit"
+  },
+  "DDC_Box_2054": {
+    "message": "Private Key Tag"
+  },
+  "DDC_Box_3000": {
+    "message": "----------------详情----------------"
+  },
+  "DDC_Box_3001": {
+    "message": "DDC Details"
+  },
+  "DDC_Box_3002": {
+    "message": "DDC ID"
+  },
+  "DDC_Box_3003": {
+    "message": "OPB"
+  },
+  "DDC_Box_3004": {
+    "message": "Type"
+  },
+  "DDC_Box_3005": {
+    "message": "Issued Copies"
+  },
+  "DDC_Box_3006": {
+    "message": "Owned Copies"
+  },
+  "DDC_Box_3007": {
+    "message": "Created Time"
+  },
+  "DDC_Box_3008": {
+    "message": "DDC URL"
+  },
+  "DDC_Box_3009": {
+    "message": "Chain Account Address"
+  },
+  "DDC_Box_3010": {
+    "message": "Picture"
+  },
+  "DDC_Box_3011": {
+    "message": "Transfer Record"
+  },
+  "DDC_Box_3012": {
+    "message": "Transaction Hash"
+  },
+  "DDC_Box_3013": {
+    "message": "Block Height"
+  },
+  "DDC_Box_3014": {
+    "message": "Transaction Time"
+  },
+  "DDC_Box_3015": {
+    "message": "From"
+  },
+  "DDC_Box_3016": {
+    "message": "To"
+  },
+  "DDC_Box_3017": {
+    "message": "Transaction Type"
+  },
+  "DDC_Box_3018": {
+    "message": "Block Number"
+  },
+  "DDC_Box_3019": {
+    "message": "Block Hash"
+  },
+  "DDC_Box_3020": {
+    "message": "Transaction Satus"
+  },
+  "DDC_Box_3021": {
+    "message": "Transaction Details"
+  },
+  "DDC_Box_3022": {
+    "message": "DDC ID"
+  },
+  "DDC_Box_3023": {
+    "message": "Type"
+  },
+  "DDC_Box_3024": {
+    "message": "Issued Copies"
+  },
+  "DDC_Box_3025": {
+    "message": "Owned Copies"
+  },
+  "DDC_Box_3026": {
+    "message": "Created Time"
+  },
+  "DDC_Box_3027": {
+    "message": "No data"
+  },
+  "DDC_Box_3028": {
+    "message": "Mint"
+  },
+  "DDC_Box_3029": {
+    "message": "Transfer"
+  },
+  "DDC_Box_3030": {
+    "message": "Destruction"
+  },
+  "DDC_Box_3031": {
+    "message": "Mint"
+  },
+  "DDC_Box_3032": {
+    "message": "DDCs in Total"
+  },
+  "DDC_Box_3033": {
+    "message": "Private Key Tag:"
+  },
+  "MSG_00000000": {
+    "message": "----------------提示信息----------------"
+  },
+  "MSG_00000001": {
+    "message": "System Exception"
+  },
+  "MSG_10000500": {
+    "message": "Server internal error"
+  },
+  "MSG_10000405": {
+    "message": "Wrong front-end input parameters"
+  },
+  "MSG_10010011": {
+    "message": "Invalid verification code"
+  },
+  "MSG_10021005": {
+    "message": "Chain account does not exist"
+  },
+  "MSG_10021006": {
+    "message": "Wrong framework information"
+  },
+  "MSG_10021010": {
+    "message": "Duplicate chain account name"
+  },
+  "MSG_10021011": {
+    "message": "Duplicate chain account address"
+  },
+  "MSG_10021014": {
+    "message": "This chain account is being frozen by the platform"
+  },
+  "MSG_10021015": {
+    "message": "This chain account is being unfrozen by the platform"
+  },
+  "MSG_10021016": {
+    "message": "The chain account is frozen"
+  },
+  "MSG_10021017": {
+    "message": "The chain account is enabled"
+  },
+  "MSG_10021018": {
+    "message": "Failed to operate the chain acocunt"
+  },
+  "MSG_10021027": {
+    "message": "Chain account not found"
+  },
+  "MSG_10021028": {
+    "message": "The chain account is disabled"
+  },
+  "MSG_10021034": {
+    "message": "Chain account address already exists!"
+  },
+  "DDC_Box_4000": {
+    "message": "----------------链框架----------------"
+  },
+  "DDC_Box_4001": {
+    "message": "Wuhan Chain"
+  },
+  "DDC_Box_4002": {
+    "message": "Tai'an Chain"
+  },
+  "DDC_Box_4003": {
+    "message": "Wenchang Chain"
+  },
+  "DDC_Box_5000": {
+    "message": "----------------签名----------------"
+  },
+  "DDC_Box_5001": {
+    "message": "Missing parameter: A1"
+  },
+  "DDC_Box_5002": {
+    "message": "The data to be signed is in the wrong format, it should be in json format"
+  },
+  "DDC_Box_5003": {
+    "message": "Signature error:"
+  },
+  "DDC_Box_9000": {
+    "message": "----------------其他----------------"
+  },
+  "DDC_Box_9001": {
+    "message": "View DDC Information"
+  },
+  "HTTP_STATUS_400": { "message": "Wrong request" },
+  "HTTP_STATUS_401": { "message": "Login status is invalid, please login again" },
+  "HTTP_STATUS_403": { "message": "Access denied" },
+  "HTTP_STATUS_404": { "message": "Please wait until the BSN-DDC website is updated with the new version" },
+  "HTTP_STATUS_500": { "message": "Server error, please try again later" },
+  "HTTP_STATUS_502": { "message": "Gateway error" },
+  "HTTP_STATUS_503": { "message": "Service is unavailable, the server is temporarily overload or under maintenance" },
+  "HTTP_STATUS_504": { "message": "Gateway timeout" },
+  "HTTP_STATUS_timeout": { "message": "Request timed out, please try again later" },
+  "MSG_10010004": { "message": "Your session has ended or you are not logged in" },
+  "MSG_10021019": { "message": "Project does not exist" },
+  "MSG_10021020": { "message": "Project key has been disabled" },
+  "MSG_10021026": { "message": "Invalid user type" },
+  "MSG_10021031": { "message": "The public key is longer than 128 bits" },
+  "MSG_10021032": { "message": "Chain account name already exists" },
+  "MSG_10021036": { "message": "Incorrect framework ID" },
+  "MSG_10021037": { "message": "Failed to verify the data" },
+  "MSG_10021038": { "message": "Project key has been enabled" },
+  "MSG_10021039": { "message": "Invalid project key operation type" },
+  "MSG_10021040": { "message": "Incorrect chain account address" },
+  "MSG_10021041": { "message": "Chain account address conversion exception" },
+  "MSG_10021042": { "message": "The framework does not exist" },
+  "MSG_10022006": { "message": "The returned value of the chain service is null" },
+  "MSG_10022007": { "message": "Method parameter is null" },
+  "MSG_10023002": { "message": "Wrong parameters" },
+  "MSG_10023003": { "message": "Insufficient permissions" },
+  "MSG_10023004": { "message": "Data error" },
+  "MSG_10023005": { "message": "Incorrect file format" },
+  "MSG_10024001": { "message": "Failed to edit" },
+  "MSG_10025001": { "message": "The withdrawal order does not exist" },
+  "MSG_10025504": { "message": "Data does not exist" },
+  "MSG_10025505": { "message": "The parameter is null" },
+  "MSG_10027002": { "message": "Chain account name cannot be null" },
+  "MSG_10027004": { "message": "The framework does not support online generation of chain account information" },
+  "MSG_10027005": { "message": "Incorrect chain account format" },
+  "MSG_10027006": { "message": "Chain account already exists" }
+}

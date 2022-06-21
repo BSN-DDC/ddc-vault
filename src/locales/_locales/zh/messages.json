@@ -1,0 +1,575 @@
+{
+  "DDC_Box_0000": {
+    "message": "----------------公共----------------"
+  },
+  "DDC_Box_0001": {
+    "message": "DDC-Vault"
+  },
+  "DDC_Box_0002": {
+    "message": "DDC保管箱chrome插件"
+  },
+  "DDC_Box_0003": {
+    "message": "< 返回"
+  },
+  "DDC_Box_0004": {
+    "message": "取消"
+  },
+  "DDC_Box_0004_1": {
+    "message": "确定"
+  },
+  "DDC_Box_0005": {
+    "message": "上一步"
+  },
+  "DDC_Box_0006": {
+    "message": "下一步"
+  },
+  "DDC_Box_0007": {
+    "message": "操作"
+  },
+  "DDC_Box_0008": {
+    "message": "查看"
+  },
+  "DDC_Box_0009": {
+    "message": "创建"
+  },
+  "DDC_Box_0009_1": {
+    "message": "导入"
+  },
+  "DDC_Box_0010": {
+    "message": "请输入****"
+  },
+  "DDC_Box_0011": {
+    "message": "成功"
+  },
+  "DDC_Box_0012": {
+    "message": "失败"
+  },
+  "DDC_Box_0013": {
+    "message": "第A1条, 共A2条"
+  },
+  "DDC_Box_1000": {
+    "message": "----------------引导页----------------"
+  },
+  "DDC_Box_1001": {
+    "message": "第一次使用DDC保管箱？"
+  },
+  "DDC_Box_1002": {
+    "message": "不，我已经有一个账户助记词了。"
+  },
+  "DDC_Box_1003": {
+    "message": "使用助记词导入你现有的私钥"
+  },
+  "DDC_Box_1004": {
+    "message": "导入私钥"
+  },
+  "DDC_Box_1005": {
+    "message": "第一次，立即开始设置！"
+  },
+  "DDC_Box_1006": {
+    "message": "将为你创建新的私钥和账户助记词"
+  },
+  "DDC_Box_1007": {
+    "message": "创建私钥"
+  },
+  "DDC_Box_1008": {
+    "message": "创建密码"
+  },
+  "DDC_Box_1009": {
+    "message": "新密码（至少8个字符）"
+  },
+  "DDC_Box_1009_1": {
+    "message": "请输入新密码"
+  },
+  "DDC_Box_1009_2": {
+    "message": "密码至少8个字符"
+  },
+  "DDC_Box_1010": {
+    "message": "确认密码"
+  },
+  "DDC_Box_1010_1": {
+    "message": "请再次输入密码"
+  },
+  "DDC_Box_1011": {
+    "message": "我已阅读并同意"
+  },
+  "DDC_Box_1012": {
+    "message": "使用条款"
+  },
+  "DDC_Box_1012_1": {
+    "message": "请阅读并同意使用条款"
+  },
+  "DDC_Box_1013": {
+    "message": "两次密码不一致，请重新输入"
+  },
+  "DDC_Box_1014": {
+    "message": "DDC保管箱不会收集密钥、地址、交易记录、余额、哈希或任何个人信息"
+  },
+  "DDC_Box_1015": {
+    "message": "DDC保管箱不会收集你的完整IP地址"
+  },
+  "DDC_Box_1016": {
+    "message": "DDC保管箱不会为利益而出售你的数据"
+  },
+  "DDC_Box_1017": {
+    "message": "账户助记词"
+  },
+  "DDC_Box_1018": {
+    "message": "你的账户助记词可以帮助你轻松备份和恢复个人账户。"
+  },
+  "DDC_Box_1019": {
+    "message": "警告：切勿向他人透漏你的账户助记词。任何人一旦持有该账户助记词，即可控制你的DDC。"
+  },
+  "DDC_Box_1020": {
+    "message": "点击此处显示密语"
+  },
+  "DDC_Box_1021": {
+    "message": "稍后提醒"
+  },
+  "DDC_Box_1022": {
+    "message": "请输入账户助记词"
+  },
+  "DDC_Box_1023": {
+    "message": "小贴士"
+  },
+  "DDC_Box_1024": {
+    "message": "通过如1password等密码管理工具保护该账户助记词。"
+  },
+  "DDC_Box_1025": {
+    "message": "请将该账户助记词记录在纸上，并保存在安全的地方。如果希望提升信息安全性，请将信息记录在多张纸上，并分别保存在2-3个不同的地方。"
+  },
+  "DDC_Box_1026": {
+    "message": "记住该账户助记词。"
+  },
+  "DDC_Box_1027": {
+    "message": "下载账户助记词，并将其安全保存在外部加密硬盘或存储介质上。"
+  },
+  "DDC_Box_1028": {
+    "message": "欢迎回来！"
+  },
+  "DDC_Box_1029": {
+    "message": "即将进入到DDC保管箱"
+  },
+  "DDC_Box_1030": {
+    "message": "输入密码"
+  },
+  "DDC_Box_1030_1": {
+    "message": "请输入密码"
+  },
+  "DDC_Box_1031": {
+    "message": "解锁"
+  },
+  "DDC_Box_1032": {
+    "message": "或"
+  },
+  "DDC_Box_1033": {
+    "message": "使用助记词导入"
+  },
+  "DDC_Box_1034": {
+    "message": "使用账户助记词恢复你的账户"
+  },
+  "DDC_Box_1035": {
+    "message": "显示账户助记词"
+  },
+  "DDC_Box_1036": {
+    "message": "登 陆"
+  },
+  "DDC_Box_1037": {
+    "message": "密码错误，请重新输入"
+  },
+  "DDC_Box_1038": {
+    "message": "Account_"
+  },
+  "DDC_Box_1039": {
+    "message": "账户助记词由 12、15、18、21 或 24 个单词组成"
+  },
+  "DDC_Box_1040": {
+    "message": "无效的账户助记词"
+  },
+  "DDC_Box_1041": {
+    "message": "更换助记词"
+  },
+  "DDC_Box_2000": {
+    "message": "----------------首页----------------"
+  },
+  "DDC_Box_2001": {
+    "message": "开放联盟链"
+  },
+  "DDC_Box_2002": {
+    "message": "创建账户"
+  },
+  "DDC_Box_2003": {
+    "message": "导入账户"
+  },
+  "DDC_Box_2004": {
+    "message": "显示账户助记词"
+  },
+  "DDC_Box_2005": {
+    "message": "导出私钥"
+  },
+  "DDC_Box_2006": {
+    "message": "能量值余额"
+  },
+  "DDC_Box_2007": {
+    "message": "查看详情"
+  },
+  "DDC_Box_2008": {
+    "message": "显示私钥"
+  },
+  "DDC_Box_2009": {
+    "message": "注意：永远不要公开这个私钥。任何拥有你的私钥的人都可以窃取你账户中的任何资产。"
+  },
+  "DDC_Box_2010": {
+    "message": "完成"
+  },
+  "DDC_Box_2011": {
+    "message": "我的账户"
+  },
+  "DDC_Box_2012": {
+    "message": "锁定"
+  },
+  "DDC_Box_2013": {
+    "message": "开放联盟链框架"
+  },
+  "DDC_Box_2014": {
+    "message": "导入的账户将不会与最初创建的DDC账户助记词相关联。"
+  },
+  "DDC_Box_2015": {
+    "message": "账户名称"
+  },
+  "DDC_Box_2016": {
+    "message": "请粘贴你的私钥"
+  },
+  "DDC_Box_2017": {
+    "message": "导入"
+  },
+  "DDC_Box_2018": {
+    "message": "账户助记词"
+  },
+  "DDC_Box_2019": {
+    "message": "如果你更换浏览器或计算机，则需要使用此账户助记词访问你的账户。请将它们保存在安全秘密的地方。"
+  },
+  "DDC_Box_2020": {
+    "message": "不要对任何人展示此账户助记词！"
+  },
+  "DDC_Box_2021": {
+    "message": "输入密码以继续"
+  },
+  "DDC_Box_2022": {
+    "message": "你的账户助记词"
+  },
+  "DDC_Box_2023": {
+    "message": "复制到剪贴板"
+  },
+  "DDC_Box_2024": {
+    "message": "保存为CSV文件"
+  },
+  "DDC_Box_2025": {
+    "message": "关闭"
+  },
+  "DDC_Box_2026": {
+    "message": "AA正在请求使用BB的私钥进行签名，是否继续？"
+  },
+  "DDC_Box_2027": {
+    "message": "签名"
+  },
+  "DDC_Box_2028": {
+    "message": "该账户助记词可以用来窃取你的所有账户"
+  },
+  "DDC_Box_2029": {
+    "message": "复制成功"
+  },
+  "DDC_Box_2030": {
+    "message": "您输入的密码不匹配"
+  },
+  "DDC_Box_2031": {
+    "message": "导入的私钥错误"
+  },
+  "DDC_Box_2032": {
+    "message": "请选择你在所要创建的链账户"
+  },
+  "DDC_Box_2033": {
+    "message": "保管箱内没有AA的私钥,无法进行签名,请先导入或创建该私钥!"
+  },
+  "DDC_Box_2034": {
+    "message": "账户名称重复"
+  },
+  "DDC_Box_2035": {
+    "message": "导入重复"
+  },
+  "DDC_Box_2036": {
+    "message": "这是你的私钥（点击复制）"
+  },
+  "DDC_Box_2037": {
+    "message": "账户名称为字母和数字及下划线组合"
+  },
+  "DDC_Box_2038": {
+    "message": "选择算法"
+  },
+  "DDC_Box_2039": {
+    "message": "请选择算法"
+  },
+  "DDC_Box_2040": {
+    "message": "账户名称"
+  },
+  "DDC_Box_2041": {
+    "message": "账户地址"
+  },
+  "DDC_Box_2042": {
+    "message": "加密算法"
+  },
+  "DDC_Box_2043": {
+    "message": "操作"
+  },
+  "DDC_Box_2044": {
+    "message": "备注"
+  },
+  "DDC_Box_2045": {
+    "message": "我的私钥列表"
+  },
+  "DDC_Box_2046": {
+    "message": "签名数据"
+  },
+  "DDC_Box_2047": {
+    "message": "签名内容"
+  },
+  "DDC_Box_2048": {
+    "message": "密码"
+  },
+  "DDC_Box_2049": {
+    "message": "请输入要签名的内容"
+  },
+  "DDC_Box_2050": {
+    "message": "签名结果"
+  },
+  "DDC_Box_2051": {
+    "message": "私钥"
+  },
+  "DDC_Box_2052": {
+    "message": "复制"
+  },
+  "DDC_Box_2053": {
+    "message": "编辑"
+  },
+  "DDC_Box_2054": {
+    "message": "私钥标签"
+  },
+  "DDC_Box_3000": {
+    "message": "----------------详情----------------"
+  },
+  "DDC_Box_3001": {
+    "message": "DDC详情"
+  },
+  "DDC_Box_3002": {
+    "message": "DDC ID"
+  },
+  "DDC_Box_3003": {
+    "message": "开放联盟链名称"
+  },
+  "DDC_Box_3004": {
+    "message": "类型"
+  },
+  "DDC_Box_3005": {
+    "message": "发行数量"
+  },
+  "DDC_Box_3006": {
+    "message": "拥有数量"
+  },
+  "DDC_Box_3007": {
+    "message": "创建时间"
+  },
+  "DDC_Box_3008": {
+    "message": "DDC URL"
+  },
+  "DDC_Box_3009": {
+    "message": "链账户地址"
+  },
+  "DDC_Box_3010": {
+    "message": "图片"
+  },
+  "DDC_Box_3011": {
+    "message": "发送记录"
+  },
+  "DDC_Box_3012": {
+    "message": "交易哈希"
+  },
+  "DDC_Box_3013": {
+    "message": "区块高度"
+  },
+  "DDC_Box_3014": {
+    "message": "交易时间"
+  },
+  "DDC_Box_3015": {
+    "message": "源账户地址"
+  },
+  "DDC_Box_3016": {
+    "message": "目标账户地址"
+  },
+  "DDC_Box_3017": {
+    "message": "交易类型"
+  },
+  "DDC_Box_3018": {
+    "message": "区块号"
+  },
+  "DDC_Box_3019": {
+    "message": "块哈希"
+  },
+  "DDC_Box_3020": {
+    "message": "交易状态"
+  },
+  "DDC_Box_3021": {
+    "message": "交易详情"
+  },
+  "DDC_Box_3022": {
+    "message": "DDC ID"
+  },
+  "DDC_Box_3023": {
+    "message": "类型"
+  },
+  "DDC_Box_3024": {
+    "message": "发行数量"
+  },
+  "DDC_Box_3025": {
+    "message": "拥有数量"
+  },
+  "DDC_Box_3026": {
+    "message": "创建时间"
+  },
+  "DDC_Box_3027": {
+    "message": "暂无数据"
+  },
+  "DDC_Box_3028": {
+    "message": "生成"
+  },
+  "DDC_Box_3029": {
+    "message": "流转"
+  },
+  "DDC_Box_3030": {
+    "message": "销毁"
+  },
+  "DDC_Box_3031": {
+    "message": "生成"
+  },
+  "DDC_Box_3032": {
+    "message": "DDC总数"
+  },
+  "DDC_Box_3033": {
+    "message": "私钥标签:"
+  },
+  "MSG_00000000": {
+    "message": "----------------提示信息----------------"
+  },
+  "MSG_00000001": {
+    "message": "系统异常"
+  },
+  "MSG_10000500": {
+    "message": "服务内部异常"
+  },
+  "MSG_10000405": {
+    "message": "前端入参有误"
+  },
+  "MSG_10010011": {
+    "message": "无效验证码"
+  },
+  "MSG_10021005": {
+    "message": "链账户不存在"
+  },
+  "MSG_10021006": {
+    "message": "框架信息不正确"
+  },
+  "MSG_10021010": {
+    "message": "链账户名称重复"
+  },
+  "MSG_10021011": {
+    "message": "链账户地址重复"
+  },
+  "MSG_10021014": {
+    "message": "此链账户正在被平台方冻结中"
+  },
+  "MSG_10021015": {
+    "message": "此链账户正在被平台方解冻中"
+  },
+  "MSG_10021016": {
+    "message": "当前链账户已冻结"
+  },
+  "MSG_10021017": {
+    "message": "当前链账户已启用"
+  },
+  "MSG_10021018": {
+    "message": "操作链账户失败"
+  },
+  "MSG_10021027": {
+    "message": "未查询到链账户"
+  },
+  "MSG_10021028": {
+    "message": "当前链账户未启用"
+  },
+  "MSG_10021034": {
+    "message": "用户链地址已存在！"
+  },
+  "DDC_Box_4000": {
+    "message": "----------------链框架----------------"
+  },
+  "DDC_Box_4001": {
+    "message": "武汉链"
+  },
+  "DDC_Box_4002": {
+    "message": "泰安链"
+  },
+  "DDC_Box_4003": {
+    "message": "文昌链"
+  },
+  "DDC_Box_5000": {
+    "message": "----------------签名----------------"
+  },
+  "DDC_Box_5001": {
+    "message": "缺少参数: A1"
+  },
+  "DDC_Box_5002": {
+    "message": "待签名数据格式错误,应为json格式"
+  },
+  "DDC_Box_5003": {
+    "message": "签名错误:"
+  },
+  "DDC_Box_9000": {
+    "message": "----------------其他----------------"
+  },
+  "DDC_Box_9001": {
+    "message": "查看DDC信息"
+  },
+  "HTTP_STATUS_400": { "message": "请求错误" },
+  "HTTP_STATUS_401": { "message": "登录状态失效，请重新登录" },
+  "HTTP_STATUS_403": { "message": "拒绝访问" },
+  "HTTP_STATUS_404": { "message": "请等待BSN-DDC网站更新新版本后即可使用" },
+  "HTTP_STATUS_500": { "message": "服务器错误，请稍后再试" },
+  "HTTP_STATUS_502": { "message": "网关错误" },
+  "HTTP_STATUS_503": { "message": "服务不可用，服务器暂时过载或维护" },
+  "HTTP_STATUS_504": { "message": "网关超时" },
+  "HTTP_STATUS_timeout": { "message": "请求超时,请稍后再试" },
+  "MSG_10010004": { "message": "您的会话已结束或尚未登录" },
+  "MSG_10021019": { "message": "项目不存在" },
+  "MSG_10021020": { "message": "项目KEY已禁用" },
+  "MSG_10021026": { "message": "用户类型错误" },
+  "MSG_10021031": { "message": "上传公钥长度超过128位！" },
+  "MSG_10021032": { "message": "链账户名称已存在！" },
+  "MSG_10021036": { "message": "框架ID不正确！" },
+  "MSG_10021037": { "message": "数据验证失败" },
+  "MSG_10021038": { "message": "项目key 已启用！" },
+  "MSG_10021039": { "message": "无效的项目key操作类型！" },
+  "MSG_10021040": { "message": "链账户地址不正确！" },
+  "MSG_10021041": { "message": "链账户地址转换异常！" },
+  "MSG_10021042": { "message": "框架不存在！" },
+  "MSG_10022006": { "message": "链服务返回值为空" },
+  "MSG_10022007": { "message": "方法参数为空" },
+  "MSG_10023002": { "message": "参数有误！" },
+  "MSG_10023003": { "message": "权限不足！" },
+  "MSG_10023004": { "message": "数据错误" },
+  "MSG_10023005": { "message": "文件格式不正确" },
+  "MSG_10024001": { "message": "修改失败" },
+  "MSG_10025001": { "message": "提现单不存在" },
+  "MSG_10025504": { "message": "数据不存在" },
+  "MSG_10025505": { "message": "参数为空" },
+  "MSG_10027002": { "message": "链账户名称不能为空" },
+  "MSG_10027004": { "message": "该框架不支持在线生成链账户信息" },
+  "MSG_10027005": { "message": "链账户格式不正确" },
+  "MSG_10027006": { "message": "链账户已经存在" }
+}
